@@ -76,9 +76,10 @@ src/
 
 ### Installation
 
-1. Clone the repository or navigate to the project directory:
+1. Clone the repository:
 ```bash
-cd yt_projects/Project_6/Project_6
+git clone https://github.com/Rehansajid2130/Cryptocurrency-Portfolio-Dashboard.git
+cd Cryptocurrency-Portfolio-Dashboard
 ```
 
 2. Install dependencies:
